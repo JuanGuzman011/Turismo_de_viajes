@@ -10,15 +10,18 @@ Turismo: Sabemos que nuestros clientes son lo más importante, nos esmeramos por
  	<li><strong style="color: #f18811;">Rappel:</strong> Deporte extremo sistema de descenso autónomo el cual requiere una técnica adecuada para deslizarse hacía abajo con una cuerda, un arnés y un descensor.</li>
  	<li><strong style="color: #f18811;">Canotaje:</strong> Consiste en descender un río a bordo de una embarcación a remo, el cual las personas de la balsa reman y orientan su peso de una manera coordinada para llegar a su origen.</li>
 </ul>
-<img class="alignnone size-medium wp-image-4032" src="https://konexionlogistik.com/wp-content/uploads/2021/02/ciclas1-300x300.png" alt="" width="300" height="300" />            <img class="alignnone size-medium wp-image-4033" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Paracaidas2-300x300.png" alt="" width="300" height="300" />            <img class="alignnone size-medium wp-image-4034" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Rappel3-300x300.png" alt="" width="300" height="300" />
-
-<strong style="color: #f18811;">                 Ciclomontañismo                                                         Paracaídas                                                                         Rappel</strong>
+<img class="alignnone size-medium wp-image-4032" src="https://konexionlogistik.com/wp-content/uploads/2021/02/ciclas1-300x300.png" alt="" width="300" height="300" />    
+<strong style="color: #f18811;">  Ciclomontañismo </strong>
+<img class="alignnone size-medium wp-image-4033" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Paracaidas2-300x300.png" alt="" width="300" height="300" />
+<strong style="color: #f18811;">  Paracaídas </strong>
+<img class="alignnone size-medium wp-image-4034" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Rappel3-300x300.png" alt="" width="300" height="300" />
+ <strong style="color: #f18811;">  Rappel</strong>
 
 &nbsp;
 
 <img class="alignnone size-medium wp-image-4035" src="https://konexionlogistik.com/wp-content/uploads/2021/02/4-300x300.png" alt="" width="300" height="300" />
 
-<strong style="color: #f18811;">                         Canotaje</strong>
+<strong style="color: #f18811;"> Canotaje</strong>
 
 <a href="https://www.youtube.com/watch?v=CZtZUqxmyrY&amp;t=3s"><img class="alignnone size-medium wp-image-4036" src="https://konexionlogistik.com/wp-content/uploads/2021/02/adrenalina-300x200.png" alt="" width="300" height="200" /></a>
 
