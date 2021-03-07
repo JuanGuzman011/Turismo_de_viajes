@@ -16,8 +16,6 @@ Turismo: Sabemos que nuestros clientes son lo más importante, nos esmeramos por
 <strong style="color: #f18811;">  Paracaídas </strong>
 <img class="alignnone size-medium wp-image-4034" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Rappel3-300x300.png" alt="" width="300" height="300" />
  <strong style="color: #f18811;">  Rappel</strong>
-<img class="alignnone size-medium wp-image-4034" src="https://konexionlogistik.com/wp-content/uploads/2021/03/Interfaz-300x119.png" alt="" width="300" height="300" />
- <strong style="color: #f18811;"> Interfaz</strong>
 
 &nbsp;
 
