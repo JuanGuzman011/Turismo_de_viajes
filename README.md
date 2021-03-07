@@ -17,12 +17,7 @@ Turismo: Sabemos que nuestros clientes son lo más importante, nos esmeramos por
 <img class="alignnone size-medium wp-image-4034" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Rappel3-300x300.png" alt="" width="300" height="300" />
  <strong style="color: #f18811;">  Rappel</strong>
 <img class="alignnone size-medium wp-image-4034" src="https://konexionlogistik.com/wp-content/uploads/2021/03/Interfaz-300x119.png" alt="" width="300" height="300" />
- <strong style="color: #f18811;"> Interfaz</strong>
-
-&nbsp;
-
-<img class="alignnone size-medium wp-image-4035" src="https://konexionlogistik.com/wp-content/uploads/2021/02/4-300x300.png" alt="" width="300" height="300" />
-
+ <strong style="color: #f18811;"> Interfaz</strong
 <strong style="color: #f18811;"> Canotaje</strong>
 
 <a href="https://www.youtube.com/watch?v=CZtZUqxmyrY&amp;t=3s"><img class="alignnone size-medium wp-image-4036" src="https://konexionlogistik.com/wp-content/uploads/2021/02/adrenalina-300x200.png" alt="" width="300" height="200" /></a>
