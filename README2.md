@@ -1,6 +1,5 @@
 <strong># Turismo_de_viajes</strong>
 <h1>Explicación de parcial</h1>
-<img class="alignnone size-medium wp-image-4031" src="https://konexionlogistik.com/wp-content/uploads/2021/02/Turismo-300x264.png" alt="" width="300" height="264" />
 
 <ul>
  	<li>Diagrams.net es una aplicación web gratuita y de código abierto que te permite crear una gran variedad de diagramas desde cualquier navegador web</li>
